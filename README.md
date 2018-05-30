@@ -1,5 +1,4 @@
-# custom-mvc
-
+# Basic Custom MVC Framework
 ## Introduction
 This is a basic custom MVC framework. It can be used as a base for small MVC apps.
 
